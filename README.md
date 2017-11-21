@@ -1,0 +1,2 @@
+# Kamoi-Bot
+A bot
